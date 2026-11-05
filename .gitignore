@@ -1,0 +1,8 @@
+/target/
+/.toolchain/
+/exports/
+/qa/
+/dist/
+/asset-validation.txt
+*.zip
+studio-layers.txt
