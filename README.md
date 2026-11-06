@@ -4,7 +4,9 @@ A local Rust/egui XML layout editor for S.T.A.L.K.E.R. Anomaly. This first versi
 
 ## Start
 
-Open `dist/Anomaly UI Studio v0.6.exe`. No installation or Rust runtime is required.
+Download latest version from [releases](https://github.com/SBDG-0/crispy_anomaly_ui_studio/releases).
+
+Unzip and open `Anomaly UI Studio v0.6.exe`. No installation or Rust runtime is required.
 
 The known unpacked Anomaly folder is prefilled and scanned automatically if available. Otherwise browse to the folder containing `configs`, `scripts`, and `textures`, then click **Scan project**.
 
